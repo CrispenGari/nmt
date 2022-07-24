@@ -1,192 +1,1466 @@
 [
-  { "code": "ab", "name": "Abkhazian" },
-  { "code": "aa", "name": "Afar" },
-  { "code": "af", "name": "Afrikaans" },
-  { "code": "ak", "name": "Akan" },
-  { "code": "sq", "name": "Albanian" },
-  { "code": "am", "name": "Amharic" },
-  { "code": "ar", "name": "Arabic" },
-  { "code": "an", "name": "Aragonese" },
-  { "code": "hy", "name": "Armenian" },
-  { "code": "as", "name": "Assamese" },
-  { "code": "av", "name": "Avaric" },
-  { "code": "ae", "name": "Avestan" },
-  { "code": "ay", "name": "Aymara" },
-  { "code": "az", "name": "Azerbaijani" },
-  { "code": "bm", "name": "Bambara" },
-  { "code": "ba", "name": "Bashkir" },
-  { "code": "eu", "name": "Basque" },
-  { "code": "be", "name": "Belarusian" },
-  { "code": "bn", "name": "Bengali" },
-  { "code": "bh", "name": "Bihari languages" },
-  { "code": "bi", "name": "Bislama" },
-  { "code": "bs", "name": "Bosnian" },
-  { "code": "br", "name": "Breton" },
-  { "code": "bg", "name": "Bulgarian" },
-  { "code": "my", "name": "Burmese" },
-  { "code": "ca", "name": "Catalan, Valencian" },
-  { "code": "km", "name": "Central Khmer" },
-  { "code": "ch", "name": "Chamorro" },
-  { "code": "ce", "name": "Chechen" },
-  { "code": "ny", "name": "Chichewa, Chewa, Nyanja" },
-  { "code": "zh", "name": "Chinese" },
   {
-    "code": "cu",
-    "name": "Church Slavonic, Old Bulgarian, Old Church Slavonic"
+    "Language": "Abkhazian",
+    "ISO 639-1": "ab",
+    "ISO 639-2/T": "abk",
+    "ISO 639-2/B": "abk",
+    "ISO 639-3": "abk",
+    "Description": "also known as Abkhaz\n"
   },
-  { "code": "cv", "name": "Chuvash" },
-  { "code": "kw", "name": "Cornish" },
-  { "code": "co", "name": "Corsican" },
-  { "code": "cr", "name": "Cree" },
-  { "code": "hr", "name": "Croatian" },
-  { "code": "cs", "name": "Czech" },
-  { "code": "da", "name": "Danish" },
-  { "code": "dv", "name": "Divehi, Dhivehi, Maldivian" },
-  { "code": "nl", "name": "Dutch, Flemish" },
-  { "code": "dz", "name": "Dzongkha" },
-  { "code": "en", "name": "English" },
-  { "code": "eo", "name": "Esperanto" },
-  { "code": "et", "name": "Estonian" },
-  { "code": "ee", "name": "Ewe" },
-  { "code": "fo", "name": "Faroese" },
-  { "code": "fj", "name": "Fijian" },
-  { "code": "fi", "name": "Finnish" },
-  { "code": "fr", "name": "French" },
-  { "code": "ff", "name": "Fulah" },
-  { "code": "gd", "name": "Gaelic, Scottish Gaelic" },
-  { "code": "gl", "name": "Galician" },
-  { "code": "lg", "name": "Ganda" },
-  { "code": "ka", "name": "Georgian" },
-  { "code": "de", "name": "German" },
-  { "code": "ki", "name": "Gikuyu, Kikuyu" },
-  { "code": "el", "name": "Greek (Modern)" },
-  { "code": "kl", "name": "Greenlandic, Kalaallisut" },
-  { "code": "gn", "name": "Guarani" },
-  { "code": "gu", "name": "Gujarati" },
-  { "code": "ht", "name": "Haitian, Haitian Creole" },
-  { "code": "ha", "name": "Hausa" },
-  { "code": "he", "name": "Hebrew" },
-  { "code": "hz", "name": "Herero" },
-  { "code": "hi", "name": "Hindi" },
-  { "code": "ho", "name": "Hiri Motu" },
-  { "code": "hu", "name": "Hungarian" },
-  { "code": "is", "name": "Icelandic" },
-  { "code": "io", "name": "Ido" },
-  { "code": "ig", "name": "Igbo" },
-  { "code": "id", "name": "Indonesian" },
   {
-    "code": "ia",
-    "name": "Interlingua (International Auxiliary Language Association)"
+    "Language": "Afar",
+    "ISO 639-1": "aa",
+    "ISO 639-2/T": "aar",
+    "ISO 639-2/B": "aar",
+    "ISO 639-3": "aar",
+    "Description": "\n"
   },
-  { "code": "ie", "name": "Interlingue" },
-  { "code": "iu", "name": "Inuktitut" },
-  { "code": "ik", "name": "Inupiaq" },
-  { "code": "ga", "name": "Irish" },
-  { "code": "it", "name": "Italian" },
-  { "code": "ja", "name": "Japanese" },
-  { "code": "jv", "name": "Javanese" },
-  { "code": "kn", "name": "Kannada" },
-  { "code": "kr", "name": "Kanuri" },
-  { "code": "ks", "name": "Kashmiri" },
-  { "code": "kk", "name": "Kazakh" },
-  { "code": "rw", "name": "Kinyarwanda" },
-  { "code": "kv", "name": "Komi" },
-  { "code": "kg", "name": "Kongo" },
-  { "code": "ko", "name": "Korean" },
-  { "code": "kj", "name": "Kwanyama, Kuanyama" },
-  { "code": "ku", "name": "Kurdish" },
-  { "code": "ky", "name": "Kyrgyz" },
-  { "code": "lo", "name": "Lao" },
-  { "code": "la", "name": "Latin" },
-  { "code": "lv", "name": "Latvian" },
-  { "code": "lb", "name": "Letzeburgesch, Luxembourgish" },
-  { "code": "li", "name": "Limburgish, Limburgan, Limburger" },
-  { "code": "ln", "name": "Lingala" },
-  { "code": "lt", "name": "Lithuanian" },
-  { "code": "lu", "name": "Luba-Katanga" },
-  { "code": "mk", "name": "Macedonian" },
-  { "code": "mg", "name": "Malagasy" },
-  { "code": "ms", "name": "Malay" },
-  { "code": "ml", "name": "Malayalam" },
-  { "code": "mt", "name": "Maltese" },
-  { "code": "gv", "name": "Manx" },
-  { "code": "mi", "name": "Maori" },
-  { "code": "mr", "name": "Marathi" },
-  { "code": "mh", "name": "Marshallese" },
-  { "code": "ro", "name": "Moldovan, Moldavian, Romanian" },
-  { "code": "mn", "name": "Mongolian" },
-  { "code": "na", "name": "Nauru" },
-  { "code": "nv", "name": "Navajo, Navaho" },
-  { "code": "nd", "name": "Northern Ndebele" },
-  { "code": "ng", "name": "Ndonga" },
-  { "code": "ne", "name": "Nepali" },
-  { "code": "se", "name": "Northern Sami" },
-  { "code": "no", "name": "Norwegian" },
-  { "code": "nb", "name": "Norwegian Bokmål" },
-  { "code": "nn", "name": "Norwegian Nynorsk" },
-  { "code": "ii", "name": "Nuosu, Sichuan Yi" },
-  { "code": "oc", "name": "Occitan (post 1500)" },
-  { "code": "oj", "name": "Ojibwa" },
-  { "code": "or", "name": "Oriya" },
-  { "code": "om", "name": "Oromo" },
-  { "code": "os", "name": "Ossetian, Ossetic" },
-  { "code": "pi", "name": "Pali" },
-  { "code": "pa", "name": "Panjabi, Punjabi" },
-  { "code": "ps", "name": "Pashto, Pushto" },
-  { "code": "fa", "name": "Persian" },
-  { "code": "pl", "name": "Polish" },
-  { "code": "pt", "name": "Portuguese" },
-  { "code": "qu", "name": "Quechua" },
-  { "code": "rm", "name": "Romansh" },
-  { "code": "rn", "name": "Rundi" },
-  { "code": "ru", "name": "Russian" },
-  { "code": "sm", "name": "Samoan" },
-  { "code": "sg", "name": "Sango" },
-  { "code": "sa", "name": "Sanskrit" },
-  { "code": "sc", "name": "Sardinian" },
-  { "code": "sr", "name": "Serbian" },
-  { "code": "sn", "name": "Shona" },
-  { "code": "sd", "name": "Sindhi" },
-  { "code": "si", "name": "Sinhala, Sinhalese" },
-  { "code": "sk", "name": "Slovak" },
-  { "code": "sl", "name": "Slovenian" },
-  { "code": "so", "name": "Somali" },
-  { "code": "st", "name": "Sotho, Southern" },
-  { "code": "nr", "name": "South Ndebele" },
-  { "code": "es", "name": "Spanish, Castilian" },
-  { "code": "su", "name": "Sundanese" },
-  { "code": "sw", "name": "Swahili" },
-  { "code": "ss", "name": "Swati" },
-  { "code": "sv", "name": "Swedish" },
-  { "code": "tl", "name": "Tagalog" },
-  { "code": "ty", "name": "Tahitian" },
-  { "code": "tg", "name": "Tajik" },
-  { "code": "ta", "name": "Tamil" },
-  { "code": "tt", "name": "Tatar" },
-  { "code": "te", "name": "Telugu" },
-  { "code": "th", "name": "Thai" },
-  { "code": "bo", "name": "Tibetan" },
-  { "code": "ti", "name": "Tigrinya" },
-  { "code": "to", "name": "Tonga (Tonga Islands)" },
-  { "code": "ts", "name": "Tsonga" },
-  { "code": "tn", "name": "Tswana" },
-  { "code": "tr", "name": "Turkish" },
-  { "code": "tk", "name": "Turkmen" },
-  { "code": "tw", "name": "Twi" },
-  { "code": "ug", "name": "Uighur, Uyghur" },
-  { "code": "uk", "name": "Ukrainian" },
-  { "code": "ur", "name": "Urdu" },
-  { "code": "uz", "name": "Uzbek" },
-  { "code": "ve", "name": "Venda" },
-  { "code": "vi", "name": "Vietnamese" },
-  { "code": "vo", "name": "Volap_k" },
-  { "code": "wa", "name": "Walloon" },
-  { "code": "cy", "name": "Welsh" },
-  { "code": "fy", "name": "Western Frisian" },
-  { "code": "wo", "name": "Wolof" },
-  { "code": "xh", "name": "Xhosa" },
-  { "code": "yi", "name": "Yiddish" },
-  { "code": "yo", "name": "Yoruba" },
-  { "code": "za", "name": "Zhuang, Chuang" },
-  { "code": "zu", "name": "Zulu" }
+  {
+    "Language": "Afrikaans",
+    "ISO 639-1": "af",
+    "ISO 639-2/T": "afr",
+    "ISO 639-2/B": "afr",
+    "ISO 639-3": "afr",
+    "Description": "\n"
+  },
+  {
+    "Language": "Akan",
+    "ISO 639-1": "ak",
+    "ISO 639-2/T": "aka",
+    "ISO 639-2/B": "aka",
+    "ISO 639-3": "aka\u00a0+\u00a02",
+    "Description": "macrolanguage, Twi is tw/twi, Fanti is fat\n"
+  },
+  {
+    "Language": "Albanian",
+    "ISO 639-1": "sq",
+    "ISO 639-2/T": "sqi",
+    "ISO 639-2/B": "alb",
+    "ISO 639-3": "sqi\u00a0+\u00a04",
+    "Description": "macrolanguage, called \"Albanian Phylozone\" in 639-6\n"
+  },
+  {
+    "Language": "Amharic",
+    "ISO 639-1": "am",
+    "ISO 639-2/T": "amh",
+    "ISO 639-2/B": "amh",
+    "ISO 639-3": "amh",
+    "Description": "\n"
+  },
+  {
+    "Language": "Arabic",
+    "ISO 639-1": "ar",
+    "ISO 639-2/T": "ara",
+    "ISO 639-2/B": "ara",
+    "ISO 639-3": "ara\u00a0+\u00a029",
+    "Description": "macrolanguage, Standard Arabic is arb\n"
+  },
+  {
+    "Language": "Aragonese",
+    "ISO 639-1": "an",
+    "ISO 639-2/T": "arg",
+    "ISO 639-2/B": "arg",
+    "ISO 639-3": "arg",
+    "Description": "\n"
+  },
+  {
+    "Language": "Armenian",
+    "ISO 639-1": "hy",
+    "ISO 639-2/T": "hye",
+    "ISO 639-2/B": "arm",
+    "ISO 639-3": "hye",
+    "Description": "ISO 639-3 code hye is for Eastern Armenian, hyw is for Western Armenian, and xcl is for Classical Armenian\n"
+  },
+  {
+    "Language": "Assamese",
+    "ISO 639-1": "as",
+    "ISO 639-2/T": "asm",
+    "ISO 639-2/B": "asm",
+    "ISO 639-3": "asm",
+    "Description": "\n"
+  },
+  {
+    "Language": "Avaric",
+    "ISO 639-1": "av",
+    "ISO 639-2/T": "ava",
+    "ISO 639-2/B": "ava",
+    "ISO 639-3": "ava",
+    "Description": "also known as Avar\n"
+  },
+  {
+    "Language": "Avestan",
+    "ISO 639-1": "ae",
+    "ISO 639-2/T": "ave",
+    "ISO 639-2/B": "ave",
+    "ISO 639-3": "ave",
+    "Description": "ancient\n"
+  },
+  {
+    "Language": "Aymara",
+    "ISO 639-1": "ay",
+    "ISO 639-2/T": "aym",
+    "ISO 639-2/B": "aym",
+    "ISO 639-3": "aym\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Azerbaijani",
+    "ISO 639-1": "az",
+    "ISO 639-2/T": "aze",
+    "ISO 639-2/B": "aze",
+    "ISO 639-3": "aze\u00a0+\u00a02",
+    "Description": "macrolanguage, also known as Azeri\n"
+  },
+  {
+    "Language": "Bambara",
+    "ISO 639-1": "bm",
+    "ISO 639-2/T": "bam",
+    "ISO 639-2/B": "bam",
+    "ISO 639-3": "bam",
+    "Description": "\n"
+  },
+  {
+    "Language": "Bashkir",
+    "ISO 639-1": "ba",
+    "ISO 639-2/T": "bak",
+    "ISO 639-2/B": "bak",
+    "ISO 639-3": "bak",
+    "Description": "\n"
+  },
+  {
+    "Language": "Basque",
+    "ISO 639-1": "eu",
+    "ISO 639-2/T": "eus",
+    "ISO 639-2/B": "baq",
+    "ISO 639-3": "eus",
+    "Description": "\n"
+  },
+  {
+    "Language": "Belarusian",
+    "ISO 639-1": "be",
+    "ISO 639-2/T": "bel",
+    "ISO 639-2/B": "bel",
+    "ISO 639-3": "bel",
+    "Description": "\n"
+  },
+  {
+    "Language": "Bengali",
+    "ISO 639-1": "bn",
+    "ISO 639-2/T": "ben",
+    "ISO 639-2/B": "ben",
+    "ISO 639-3": "ben",
+    "Description": "also known as Bangla\n"
+  },
+  {
+    "Language": "Bislama",
+    "ISO 639-1": "bi",
+    "ISO 639-2/T": "bis",
+    "ISO 639-2/B": "bis",
+    "ISO 639-3": "bis",
+    "Description": "Language formed from English and Vanuatuan languages, with some French influence.\n"
+  },
+  {
+    "Language": "Bosnian",
+    "ISO 639-1": "bs",
+    "ISO 639-2/T": "bos",
+    "ISO 639-2/B": "bos",
+    "ISO 639-3": "bos",
+    "Description": "\n"
+  },
+  {
+    "Language": "Breton",
+    "ISO 639-1": "br",
+    "ISO 639-2/T": "bre",
+    "ISO 639-2/B": "bre",
+    "ISO 639-3": "bre",
+    "Description": "\n"
+  },
+  {
+    "Language": "Bulgarian",
+    "ISO 639-1": "bg",
+    "ISO 639-2/T": "bul",
+    "ISO 639-2/B": "bul",
+    "ISO 639-3": "bul",
+    "Description": "\n"
+  },
+  {
+    "Language": "Burmese",
+    "ISO 639-1": "my",
+    "ISO 639-2/T": "mya",
+    "ISO 639-2/B": "bur",
+    "ISO 639-3": "mya",
+    "Description": "also known as Myanmar\n"
+  },
+  {
+    "Language": "Catalan, Valencian",
+    "ISO 639-1": "ca",
+    "ISO 639-2/T": "cat",
+    "ISO 639-2/B": "cat",
+    "ISO 639-3": "cat",
+    "Description": "\n"
+  },
+  {
+    "Language": "Chamorro",
+    "ISO 639-1": "ch",
+    "ISO 639-2/T": "cha",
+    "ISO 639-2/B": "cha",
+    "ISO 639-3": "cha",
+    "Description": "\n"
+  },
+  {
+    "Language": "Chechen",
+    "ISO 639-1": "ce",
+    "ISO 639-2/T": "che",
+    "ISO 639-2/B": "che",
+    "ISO 639-3": "che",
+    "Description": "\n"
+  },
+  {
+    "Language": "Chichewa, Chewa, Nyanja",
+    "ISO 639-1": "ny",
+    "ISO 639-2/T": "nya",
+    "ISO 639-2/B": "nya",
+    "ISO 639-3": "nya",
+    "Description": "\n"
+  },
+  {
+    "Language": "Chinese",
+    "ISO 639-1": "zh",
+    "ISO 639-2/T": "zho",
+    "ISO 639-2/B": "chi",
+    "ISO 639-3": "zho\u00a0+\u00a016",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Church\u00a0Slavic, Old Slavonic, Church Slavonic, Old Bulgarian, Old\u00a0Church\u00a0Slavonic",
+    "ISO 639-1": "cu",
+    "ISO 639-2/T": "chu",
+    "ISO 639-2/B": "chu",
+    "ISO 639-3": "chu",
+    "Description": "ancient, in use by the Eastern Orthodox Church\n"
+  },
+  {
+    "Language": "Chuvash",
+    "ISO 639-1": "cv",
+    "ISO 639-2/T": "chv",
+    "ISO 639-2/B": "chv",
+    "ISO 639-3": "chv",
+    "Description": "\n"
+  },
+  {
+    "Language": "Cornish",
+    "ISO 639-1": "kw",
+    "ISO 639-2/T": "cor",
+    "ISO 639-2/B": "cor",
+    "ISO 639-3": "cor",
+    "Description": "\n"
+  },
+  {
+    "Language": "Corsican",
+    "ISO 639-1": "co",
+    "ISO 639-2/T": "cos",
+    "ISO 639-2/B": "cos",
+    "ISO 639-3": "cos",
+    "Description": "\n"
+  },
+  {
+    "Language": "Cree",
+    "ISO 639-1": "cr",
+    "ISO 639-2/T": "cre",
+    "ISO 639-2/B": "cre",
+    "ISO 639-3": "cre\u00a0+\u00a06",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Croatian",
+    "ISO 639-1": "hr",
+    "ISO 639-2/T": "hrv",
+    "ISO 639-2/B": "hrv",
+    "ISO 639-3": "hrv",
+    "Description": "\n"
+  },
+  {
+    "Language": "Czech",
+    "ISO 639-1": "cs",
+    "ISO 639-2/T": "ces",
+    "ISO 639-2/B": "cze",
+    "ISO 639-3": "ces",
+    "Description": "\n"
+  },
+  {
+    "Language": "Danish",
+    "ISO 639-1": "da",
+    "ISO 639-2/T": "dan",
+    "ISO 639-2/B": "dan",
+    "ISO 639-3": "dan",
+    "Description": "\n"
+  },
+  {
+    "Language": "Divehi, Dhivehi, Maldivian",
+    "ISO 639-1": "dv",
+    "ISO 639-2/T": "div",
+    "ISO 639-2/B": "div",
+    "ISO 639-3": "div",
+    "Description": "\n"
+  },
+  {
+    "Language": "Dutch, Flemish",
+    "ISO 639-1": "nl",
+    "ISO 639-2/T": "nld",
+    "ISO 639-2/B": "dut",
+    "ISO 639-3": "nld",
+    "Description": "Flemish is not to be confused with the closely related West Flemish which is referred to as Vlaams (Dutch for \"Flemish\") in ISO 639-3 and has the ISO 639-3 code vls\n"
+  },
+  {
+    "Language": "Dzongkha",
+    "ISO 639-1": "dz",
+    "ISO 639-2/T": "dzo",
+    "ISO 639-2/B": "dzo",
+    "ISO 639-3": "dzo",
+    "Description": "\n"
+  },
+  {
+    "Language": "English",
+    "ISO 639-1": "en",
+    "ISO 639-2/T": "eng",
+    "ISO 639-2/B": "eng",
+    "ISO 639-3": "eng",
+    "Description": "\n"
+  },
+  {
+    "Language": "Esperanto",
+    "ISO 639-1": "eo",
+    "ISO 639-2/T": "epo",
+    "ISO 639-2/B": "epo",
+    "ISO 639-3": "epo",
+    "Description": "constructed, initially by L.L. Zamenhof in 1887\n"
+  },
+  {
+    "Language": "Estonian",
+    "ISO 639-1": "et",
+    "ISO 639-2/T": "est",
+    "ISO 639-2/B": "est",
+    "ISO 639-3": "est\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Ewe",
+    "ISO 639-1": "ee",
+    "ISO 639-2/T": "ewe",
+    "ISO 639-2/B": "ewe",
+    "ISO 639-3": "ewe",
+    "Description": "\n"
+  },
+  {
+    "Language": "Faroese",
+    "ISO 639-1": "fo",
+    "ISO 639-2/T": "fao",
+    "ISO 639-2/B": "fao",
+    "ISO 639-3": "fao",
+    "Description": "\n"
+  },
+  {
+    "Language": "Fijian",
+    "ISO 639-1": "fj",
+    "ISO 639-2/T": "fij",
+    "ISO 639-2/B": "fij",
+    "ISO 639-3": "fij",
+    "Description": "\n"
+  },
+  {
+    "Language": "Finnish",
+    "ISO 639-1": "fi",
+    "ISO 639-2/T": "fin",
+    "ISO 639-2/B": "fin",
+    "ISO 639-3": "fin",
+    "Description": "\n"
+  },
+  {
+    "Language": "French",
+    "ISO 639-1": "fr",
+    "ISO 639-2/T": "fra",
+    "ISO 639-2/B": "fre",
+    "ISO 639-3": "fra",
+    "Description": "\n"
+  },
+  {
+    "Language": "Western Frisian",
+    "ISO 639-1": "fy",
+    "ISO 639-2/T": "fry",
+    "ISO 639-2/B": "fry",
+    "ISO 639-3": "fry",
+    "Description": "also known as Frisian\n"
+  },
+  {
+    "Language": "Fulah",
+    "ISO 639-1": "ff",
+    "ISO 639-2/T": "ful",
+    "ISO 639-2/B": "ful",
+    "ISO 639-3": "ful\u00a0+\u00a09",
+    "Description": "macrolanguage, also known as Fula\n"
+  },
+  {
+    "Language": "Gaelic, Scottish Gaelic",
+    "ISO 639-1": "gd",
+    "ISO 639-2/T": "gla",
+    "ISO 639-2/B": "gla",
+    "ISO 639-3": "gla",
+    "Description": "\n"
+  },
+  {
+    "Language": "Galician",
+    "ISO 639-1": "gl",
+    "ISO 639-2/T": "glg",
+    "ISO 639-2/B": "glg",
+    "ISO 639-3": "glg",
+    "Description": "\n"
+  },
+  {
+    "Language": "Ganda",
+    "ISO 639-1": "lg",
+    "ISO 639-2/T": "lug",
+    "ISO 639-2/B": "lug",
+    "ISO 639-3": "lug",
+    "Description": "\n"
+  },
+  {
+    "Language": "Georgian",
+    "ISO 639-1": "ka",
+    "ISO 639-2/T": "kat",
+    "ISO 639-2/B": "geo",
+    "ISO 639-3": "kat",
+    "Description": "\n"
+  },
+  {
+    "Language": "German",
+    "ISO 639-1": "de",
+    "ISO 639-2/T": "deu",
+    "ISO 639-2/B": "ger",
+    "ISO 639-3": "deu",
+    "Description": "\n"
+  },
+  {
+    "Language": "Greek, Modern (1453\u2013)",
+    "ISO 639-1": "el",
+    "ISO 639-2/T": "ell",
+    "ISO 639-2/B": "gre",
+    "ISO 639-3": "ell",
+    "Description": "for Ancient Greek, use the ISO 639-3 code grc\n"
+  },
+  {
+    "Language": "Kalaallisut, Greenlandic",
+    "ISO 639-1": "kl",
+    "ISO 639-2/T": "kal",
+    "ISO 639-2/B": "kal",
+    "ISO 639-3": "kal",
+    "Description": "\n"
+  },
+  {
+    "Language": "Guarani",
+    "ISO 639-1": "gn",
+    "ISO 639-2/T": "grn",
+    "ISO 639-2/B": "grn",
+    "ISO 639-3": "grn\u00a0+\u00a05",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Gujarati",
+    "ISO 639-1": "gu",
+    "ISO 639-2/T": "guj",
+    "ISO 639-2/B": "guj",
+    "ISO 639-3": "guj",
+    "Description": "\n"
+  },
+  {
+    "Language": "Haitian, Haitian Creole",
+    "ISO 639-1": "ht",
+    "ISO 639-2/T": "hat",
+    "ISO 639-2/B": "hat",
+    "ISO 639-3": "hat",
+    "Description": "\n"
+  },
+  {
+    "Language": "Hausa",
+    "ISO 639-1": "ha",
+    "ISO 639-2/T": "hau",
+    "ISO 639-2/B": "hau",
+    "ISO 639-3": "hau",
+    "Description": "\n"
+  },
+  {
+    "Language": "Hebrew",
+    "ISO 639-1": "he",
+    "ISO 639-2/T": "heb",
+    "ISO 639-2/B": "heb",
+    "ISO 639-3": "heb",
+    "Description": "Modern Hebrew. Code changed in 1989 from original ISO 639:1988, iw.[1]\n"
+  },
+  {
+    "Language": "Herero",
+    "ISO 639-1": "hz",
+    "ISO 639-2/T": "her",
+    "ISO 639-2/B": "her",
+    "ISO 639-3": "her",
+    "Description": "\n"
+  },
+  {
+    "Language": "Hindi",
+    "ISO 639-1": "hi",
+    "ISO 639-2/T": "hin",
+    "ISO 639-2/B": "hin",
+    "ISO 639-3": "hin",
+    "Description": "\n"
+  },
+  {
+    "Language": "Hiri Motu",
+    "ISO 639-1": "ho",
+    "ISO 639-2/T": "hmo",
+    "ISO 639-2/B": "hmo",
+    "ISO 639-3": "hmo",
+    "Description": "\n"
+  },
+  {
+    "Language": "Hungarian",
+    "ISO 639-1": "hu",
+    "ISO 639-2/T": "hun",
+    "ISO 639-2/B": "hun",
+    "ISO 639-3": "hun",
+    "Description": "\n"
+  },
+  {
+    "Language": "Icelandic",
+    "ISO 639-1": "is",
+    "ISO 639-2/T": "isl",
+    "ISO 639-2/B": "ice",
+    "ISO 639-3": "isl",
+    "Description": "\n"
+  },
+  {
+    "Language": "Ido",
+    "ISO 639-1": "io",
+    "ISO 639-2/T": "ido",
+    "ISO 639-2/B": "ido",
+    "ISO 639-3": "ido",
+    "Description": "constructed by De Beaufront, 1907, as variation of Esperanto\n"
+  },
+  {
+    "Language": "Igbo",
+    "ISO 639-1": "ig",
+    "ISO 639-2/T": "ibo",
+    "ISO 639-2/B": "ibo",
+    "ISO 639-3": "ibo",
+    "Description": "\n"
+  },
+  {
+    "Language": "Indonesian",
+    "ISO 639-1": "id",
+    "ISO 639-2/T": "ind",
+    "ISO 639-2/B": "ind",
+    "ISO 639-3": "ind",
+    "Description": "covered by macrolanguage ms/msa. Changed in 1989 from original ISO 639:1988, in.[1]\n"
+  },
+  {
+    "Language": "Interlingua (International Auxiliary Language Association)",
+    "ISO 639-1": "ia",
+    "ISO 639-2/T": "ina",
+    "ISO 639-2/B": "ina",
+    "ISO 639-3": "ina",
+    "Description": "constructed by the International Auxiliary Language Association\n"
+  },
+  {
+    "Language": "Interlingue, Occidental",
+    "ISO 639-1": "ie",
+    "ISO 639-2/T": "ile",
+    "ISO 639-2/B": "ile",
+    "ISO 639-3": "ile",
+    "Description": "constructed by Edgar de Wahl, first published in 1922\n"
+  },
+  {
+    "Language": "Inuktitut",
+    "ISO 639-1": "iu",
+    "ISO 639-2/T": "iku",
+    "ISO 639-2/B": "iku",
+    "ISO 639-3": "iku\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Inupiaq",
+    "ISO 639-1": "ik",
+    "ISO 639-2/T": "ipk",
+    "ISO 639-2/B": "ipk",
+    "ISO 639-3": "ipk\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Irish",
+    "ISO 639-1": "ga",
+    "ISO 639-2/T": "gle",
+    "ISO 639-2/B": "gle",
+    "ISO 639-3": "gle",
+    "Description": "\n"
+  },
+  {
+    "Language": "Italian",
+    "ISO 639-1": "it",
+    "ISO 639-2/T": "ita",
+    "ISO 639-2/B": "ita",
+    "ISO 639-3": "ita",
+    "Description": "\n"
+  },
+  {
+    "Language": "Japanese",
+    "ISO 639-1": "ja",
+    "ISO 639-2/T": "jpn",
+    "ISO 639-2/B": "jpn",
+    "ISO 639-3": "jpn",
+    "Description": "\n"
+  },
+  {
+    "Language": "Javanese",
+    "ISO 639-1": "jv",
+    "ISO 639-2/T": "jav",
+    "ISO 639-2/B": "jav",
+    "ISO 639-3": "jav",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kannada",
+    "ISO 639-1": "kn",
+    "ISO 639-2/T": "kan",
+    "ISO 639-2/B": "kan",
+    "ISO 639-3": "kan",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kanuri",
+    "ISO 639-1": "kr",
+    "ISO 639-2/T": "kau",
+    "ISO 639-2/B": "kau",
+    "ISO 639-3": "kau\u00a0+\u00a03",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Kashmiri",
+    "ISO 639-1": "ks",
+    "ISO 639-2/T": "kas",
+    "ISO 639-2/B": "kas",
+    "ISO 639-3": "kas",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kazakh",
+    "ISO 639-1": "kk",
+    "ISO 639-2/T": "kaz",
+    "ISO 639-2/B": "kaz",
+    "ISO 639-3": "kaz",
+    "Description": "\n"
+  },
+  {
+    "Language": "Central Khmer",
+    "ISO 639-1": "km",
+    "ISO 639-2/T": "khm",
+    "ISO 639-2/B": "khm",
+    "ISO 639-3": "khm",
+    "Description": "also known as Khmer or Cambodian\n"
+  },
+  {
+    "Language": "Kikuyu, Gikuyu",
+    "ISO 639-1": "ki",
+    "ISO 639-2/T": "kik",
+    "ISO 639-2/B": "kik",
+    "ISO 639-3": "kik",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kinyarwanda",
+    "ISO 639-1": "rw",
+    "ISO 639-2/T": "kin",
+    "ISO 639-2/B": "kin",
+    "ISO 639-3": "kin",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kirghiz, Kyrgyz",
+    "ISO 639-1": "ky",
+    "ISO 639-2/T": "kir",
+    "ISO 639-2/B": "kir",
+    "ISO 639-3": "kir",
+    "Description": "\n"
+  },
+  {
+    "Language": "Komi",
+    "ISO 639-1": "kv",
+    "ISO 639-2/T": "kom",
+    "ISO 639-2/B": "kom",
+    "ISO 639-3": "kom\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Kongo",
+    "ISO 639-1": "kg",
+    "ISO 639-2/T": "kon",
+    "ISO 639-2/B": "kon",
+    "ISO 639-3": "kon\u00a0+\u00a03",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Korean",
+    "ISO 639-1": "ko",
+    "ISO 639-2/T": "kor",
+    "ISO 639-2/B": "kor",
+    "ISO 639-3": "kor",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kuanyama, Kwanyama",
+    "ISO 639-1": "kj",
+    "ISO 639-2/T": "kua",
+    "ISO 639-2/B": "kua",
+    "ISO 639-3": "kua",
+    "Description": "\n"
+  },
+  {
+    "Language": "Kurdish",
+    "ISO 639-1": "ku",
+    "ISO 639-2/T": "kur",
+    "ISO 639-2/B": "kur",
+    "ISO 639-3": "kur\u00a0+\u00a03",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Lao",
+    "ISO 639-1": "lo",
+    "ISO 639-2/T": "lao",
+    "ISO 639-2/B": "lao",
+    "ISO 639-3": "lao",
+    "Description": "\n"
+  },
+  {
+    "Language": "Latin",
+    "ISO 639-1": "la",
+    "ISO 639-2/T": "lat",
+    "ISO 639-2/B": "lat",
+    "ISO 639-3": "lat",
+    "Description": "ancient\n"
+  },
+  {
+    "Language": "Latvian",
+    "ISO 639-1": "lv",
+    "ISO 639-2/T": "lav",
+    "ISO 639-2/B": "lav",
+    "ISO 639-3": "lav\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Limburgan, Limburger, Limburgish",
+    "ISO 639-1": "li",
+    "ISO 639-2/T": "lim",
+    "ISO 639-2/B": "lim",
+    "ISO 639-3": "lim",
+    "Description": "\n"
+  },
+  {
+    "Language": "Lingala",
+    "ISO 639-1": "ln",
+    "ISO 639-2/T": "lin",
+    "ISO 639-2/B": "lin",
+    "ISO 639-3": "lin",
+    "Description": "\n"
+  },
+  {
+    "Language": "Lithuanian",
+    "ISO 639-1": "lt",
+    "ISO 639-2/T": "lit",
+    "ISO 639-2/B": "lit",
+    "ISO 639-3": "lit",
+    "Description": "\n"
+  },
+  {
+    "Language": "Luba-Katanga",
+    "ISO 639-1": "lu",
+    "ISO 639-2/T": "lub",
+    "ISO 639-2/B": "lub",
+    "ISO 639-3": "lub",
+    "Description": "also known as Luba-Shaba\n"
+  },
+  {
+    "Language": "Luxembourgish, Letzeburgesch",
+    "ISO 639-1": "lb",
+    "ISO 639-2/T": "ltz",
+    "ISO 639-2/B": "ltz",
+    "ISO 639-3": "ltz",
+    "Description": "\n"
+  },
+  {
+    "Language": "Macedonian",
+    "ISO 639-1": "mk",
+    "ISO 639-2/T": "mkd",
+    "ISO 639-2/B": "mac",
+    "ISO 639-3": "mkd",
+    "Description": "\n"
+  },
+  {
+    "Language": "Malagasy",
+    "ISO 639-1": "mg",
+    "ISO 639-2/T": "mlg",
+    "ISO 639-2/B": "mlg",
+    "ISO 639-3": "mlg\u00a0+\u00a011",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Malay",
+    "ISO 639-1": "ms",
+    "ISO 639-2/T": "msa",
+    "ISO 639-2/B": "may",
+    "ISO 639-3": "msa\u00a0+\u00a036",
+    "Description": "macrolanguage, Standard Malay is zsm, Indonesian is id/ind\n"
+  },
+  {
+    "Language": "Malayalam",
+    "ISO 639-1": "ml",
+    "ISO 639-2/T": "mal",
+    "ISO 639-2/B": "mal",
+    "ISO 639-3": "mal",
+    "Description": "\n"
+  },
+  {
+    "Language": "Maltese",
+    "ISO 639-1": "mt",
+    "ISO 639-2/T": "mlt",
+    "ISO 639-2/B": "mlt",
+    "ISO 639-3": "mlt",
+    "Description": "\n"
+  },
+  {
+    "Language": "Manx",
+    "ISO 639-1": "gv",
+    "ISO 639-2/T": "glv",
+    "ISO 639-2/B": "glv",
+    "ISO 639-3": "glv",
+    "Description": "\n"
+  },
+  {
+    "Language": "Maori",
+    "ISO 639-1": "mi",
+    "ISO 639-2/T": "mri",
+    "ISO 639-2/B": "mao",
+    "ISO 639-3": "mri",
+    "Description": "also known as M\u0101ori\n"
+  },
+  {
+    "Language": "Marathi",
+    "ISO 639-1": "mr",
+    "ISO 639-2/T": "mar",
+    "ISO 639-2/B": "mar",
+    "ISO 639-3": "mar",
+    "Description": "also known as Mar\u0101\u1e6dh\u012b\n"
+  },
+  {
+    "Language": "Marshallese",
+    "ISO 639-1": "mh",
+    "ISO 639-2/T": "mah",
+    "ISO 639-2/B": "mah",
+    "ISO 639-3": "mah",
+    "Description": "\n"
+  },
+  {
+    "Language": "Mongolian",
+    "ISO 639-1": "mn",
+    "ISO 639-2/T": "mon",
+    "ISO 639-2/B": "mon",
+    "ISO 639-3": "mon\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Nauru",
+    "ISO 639-1": "na",
+    "ISO 639-2/T": "nau",
+    "ISO 639-2/B": "nau",
+    "ISO 639-3": "nau",
+    "Description": "also known as Nauruan\n"
+  },
+  {
+    "Language": "Navajo, Navaho",
+    "ISO 639-1": "nv",
+    "ISO 639-2/T": "nav",
+    "ISO 639-2/B": "nav",
+    "ISO 639-3": "nav",
+    "Description": "\n"
+  },
+  {
+    "Language": "North Ndebele",
+    "ISO 639-1": "nd",
+    "ISO 639-2/T": "nde",
+    "ISO 639-2/B": "nde",
+    "ISO 639-3": "nde",
+    "Description": "also known as Northern Ndebele\n"
+  },
+  {
+    "Language": "South Ndebele",
+    "ISO 639-1": "nr",
+    "ISO 639-2/T": "nbl",
+    "ISO 639-2/B": "nbl",
+    "ISO 639-3": "nbl",
+    "Description": "also known as Southern Ndebele\n"
+  },
+  {
+    "Language": "Ndonga",
+    "ISO 639-1": "ng",
+    "ISO 639-2/T": "ndo",
+    "ISO 639-2/B": "ndo",
+    "ISO 639-3": "ndo",
+    "Description": "\n"
+  },
+  {
+    "Language": "Nepali",
+    "ISO 639-1": "ne",
+    "ISO 639-2/T": "nep",
+    "ISO 639-2/B": "nep",
+    "ISO 639-3": "nep\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Norwegian",
+    "ISO 639-1": "no",
+    "ISO 639-2/T": "nor",
+    "ISO 639-2/B": "nor",
+    "ISO 639-3": "nor\u00a0+\u00a02",
+    "Description": "macrolanguage, Bokm\u00e5l is nb/nob, Nynorsk is nn/nno\n"
+  },
+  {
+    "Language": "Norwegian Bokm\u00e5l",
+    "ISO 639-1": "nb",
+    "ISO 639-2/T": "nob",
+    "ISO 639-2/B": "nob",
+    "ISO 639-3": "nob",
+    "Description": "covered by macrolanguage no/nor\n"
+  },
+  {
+    "Language": "Norwegian Nynorsk",
+    "ISO 639-1": "nn",
+    "ISO 639-2/T": "nno",
+    "ISO 639-2/B": "nno",
+    "ISO 639-3": "nno",
+    "Description": "covered by macrolanguage no/nor\n"
+  },
+  {
+    "Language": "Sichuan Yi, Nuosu",
+    "ISO 639-1": "ii",
+    "ISO 639-2/T": "iii",
+    "ISO 639-2/B": "iii",
+    "ISO 639-3": "iii",
+    "Description": "standard form of the Yi languages\n"
+  },
+  {
+    "Language": "Occitan",
+    "ISO 639-1": "oc",
+    "ISO 639-2/T": "oci",
+    "ISO 639-2/B": "oci",
+    "ISO 639-3": "oci",
+    "Description": "\n"
+  },
+  {
+    "Language": "Ojibwa",
+    "ISO 639-1": "oj",
+    "ISO 639-2/T": "oji",
+    "ISO 639-2/B": "oji",
+    "ISO 639-3": "oji\u00a0+\u00a07",
+    "Description": "macrolanguage, also known as Ojibwe\n"
+  },
+  {
+    "Language": "Oriya",
+    "ISO 639-1": "or",
+    "ISO 639-2/T": "ori",
+    "ISO 639-2/B": "ori",
+    "ISO 639-3": "ori\u00a0+\u00a02",
+    "Description": "macrolanguage, also known as Odia\n"
+  },
+  {
+    "Language": "Oromo",
+    "ISO 639-1": "om",
+    "ISO 639-2/T": "orm",
+    "ISO 639-2/B": "orm",
+    "ISO 639-3": "orm\u00a0+\u00a04",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Ossetian, Ossetic",
+    "ISO 639-1": "os",
+    "ISO 639-2/T": "oss",
+    "ISO 639-2/B": "oss",
+    "ISO 639-3": "oss",
+    "Description": "\n"
+  },
+  {
+    "Language": "Pali",
+    "ISO 639-1": "pi",
+    "ISO 639-2/T": "pli",
+    "ISO 639-2/B": "pli",
+    "ISO 639-3": "pli",
+    "Description": "ancient, also known as P\u0101li\n"
+  },
+  {
+    "Language": "Pashto, Pushto",
+    "ISO 639-1": "ps",
+    "ISO 639-2/T": "pus",
+    "ISO 639-2/B": "pus",
+    "ISO 639-3": "pus\u00a0+\u00a03",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Persian",
+    "ISO 639-1": "fa",
+    "ISO 639-2/T": "fas",
+    "ISO 639-2/B": "per",
+    "ISO 639-3": "fas\u00a0+\u00a02",
+    "Description": "macrolanguage, also known as Farsi\n"
+  },
+  {
+    "Language": "Polish",
+    "ISO 639-1": "pl",
+    "ISO 639-2/T": "pol",
+    "ISO 639-2/B": "pol",
+    "ISO 639-3": "pol",
+    "Description": "\n"
+  },
+  {
+    "Language": "Portuguese",
+    "ISO 639-1": "pt",
+    "ISO 639-2/T": "por",
+    "ISO 639-2/B": "por",
+    "ISO 639-3": "por",
+    "Description": "\n"
+  },
+  {
+    "Language": "Punjabi, Panjabi",
+    "ISO 639-1": "pa",
+    "ISO 639-2/T": "pan",
+    "ISO 639-2/B": "pan",
+    "ISO 639-3": "pan",
+    "Description": "\n"
+  },
+  {
+    "Language": "Quechua",
+    "ISO 639-1": "qu",
+    "ISO 639-2/T": "que",
+    "ISO 639-2/B": "que",
+    "ISO 639-3": "que\u00a0+\u00a043",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Romanian, Moldavian, Moldovan",
+    "ISO 639-1": "ro",
+    "ISO 639-2/T": "ron",
+    "ISO 639-2/B": "rum",
+    "ISO 639-3": "ron",
+    "Description": "the identifiers mo and mol for Moldavian are deprecated. They will not be assigned to different items, and recordings using these identifiers will not be invalid.\n"
+  },
+  {
+    "Language": "Romansh",
+    "ISO 639-1": "rm",
+    "ISO 639-2/T": "roh",
+    "ISO 639-2/B": "roh",
+    "ISO 639-3": "roh",
+    "Description": "\n"
+  },
+  {
+    "Language": "Rundi",
+    "ISO 639-1": "rn",
+    "ISO 639-2/T": "run",
+    "ISO 639-2/B": "run",
+    "ISO 639-3": "run",
+    "Description": "also known as Kirundi\n"
+  },
+  {
+    "Language": "Russian",
+    "ISO 639-1": "ru",
+    "ISO 639-2/T": "rus",
+    "ISO 639-2/B": "rus",
+    "ISO 639-3": "rus",
+    "Description": "\n"
+  },
+  {
+    "Language": "Northern Sami",
+    "ISO 639-1": "se",
+    "ISO 639-2/T": "sme",
+    "ISO 639-2/B": "sme",
+    "ISO 639-3": "sme",
+    "Description": "\n"
+  },
+  {
+    "Language": "Samoan",
+    "ISO 639-1": "sm",
+    "ISO 639-2/T": "smo",
+    "ISO 639-2/B": "smo",
+    "ISO 639-3": "smo",
+    "Description": "\n"
+  },
+  {
+    "Language": "Sango",
+    "ISO 639-1": "sg",
+    "ISO 639-2/T": "sag",
+    "ISO 639-2/B": "sag",
+    "ISO 639-3": "sag",
+    "Description": "\n"
+  },
+  {
+    "Language": "Sanskrit",
+    "ISO 639-1": "sa",
+    "ISO 639-2/T": "san",
+    "ISO 639-2/B": "san",
+    "ISO 639-3": "san",
+    "Description": "ancient\n"
+  },
+  {
+    "Language": "Sardinian",
+    "ISO 639-1": "sc",
+    "ISO 639-2/T": "srd",
+    "ISO 639-2/B": "srd",
+    "ISO 639-3": "srd\u00a0+\u00a04",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Serbian",
+    "ISO 639-1": "sr",
+    "ISO 639-2/T": "srp",
+    "ISO 639-2/B": "srp",
+    "ISO 639-3": "srp",
+    "Description": "the ISO 639-2/T code srp deprecated the ISO 639-2/B code scc[2]\n"
+  },
+  {
+    "Language": "Shona",
+    "ISO 639-1": "sn",
+    "ISO 639-2/T": "sna",
+    "ISO 639-2/B": "sna",
+    "ISO 639-3": "sna",
+    "Description": "\n"
+  },
+  {
+    "Language": "Sindhi",
+    "ISO 639-1": "sd",
+    "ISO 639-2/T": "snd",
+    "ISO 639-2/B": "snd",
+    "ISO 639-3": "snd",
+    "Description": "\n"
+  },
+  {
+    "Language": "Sinhala, Sinhalese",
+    "ISO 639-1": "si",
+    "ISO 639-2/T": "sin",
+    "ISO 639-2/B": "sin",
+    "ISO 639-3": "sin",
+    "Description": "\n"
+  },
+  {
+    "Language": "Slovak",
+    "ISO 639-1": "sk",
+    "ISO 639-2/T": "slk",
+    "ISO 639-2/B": "slo",
+    "ISO 639-3": "slk",
+    "Description": "\n"
+  },
+  {
+    "Language": "Slovenian",
+    "ISO 639-1": "sl",
+    "ISO 639-2/T": "slv",
+    "ISO 639-2/B": "slv",
+    "ISO 639-3": "slv",
+    "Description": "also known as Slovene\n"
+  },
+  {
+    "Language": "Somali",
+    "ISO 639-1": "so",
+    "ISO 639-2/T": "som",
+    "ISO 639-2/B": "som",
+    "ISO 639-3": "som",
+    "Description": "\n"
+  },
+  {
+    "Language": "Southern Sotho",
+    "ISO 639-1": "st",
+    "ISO 639-2/T": "sot",
+    "ISO 639-2/B": "sot",
+    "ISO 639-3": "sot",
+    "Description": "\n"
+  },
+  {
+    "Language": "Spanish, Castilian",
+    "ISO 639-1": "es",
+    "ISO 639-2/T": "spa",
+    "ISO 639-2/B": "spa",
+    "ISO 639-3": "spa",
+    "Description": "\n"
+  },
+  {
+    "Language": "Sundanese",
+    "ISO 639-1": "su",
+    "ISO 639-2/T": "sun",
+    "ISO 639-2/B": "sun",
+    "ISO 639-3": "sun",
+    "Description": "\n"
+  },
+  {
+    "Language": "Swahili",
+    "ISO 639-1": "sw",
+    "ISO 639-2/T": "swa",
+    "ISO 639-2/B": "swa",
+    "ISO 639-3": "swa\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Swati",
+    "ISO 639-1": "ss",
+    "ISO 639-2/T": "ssw",
+    "ISO 639-2/B": "ssw",
+    "ISO 639-3": "ssw",
+    "Description": "also known as Swazi\n"
+  },
+  {
+    "Language": "Swedish",
+    "ISO 639-1": "sv",
+    "ISO 639-2/T": "swe",
+    "ISO 639-2/B": "swe",
+    "ISO 639-3": "swe",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tagalog",
+    "ISO 639-1": "tl",
+    "ISO 639-2/T": "tgl",
+    "ISO 639-2/B": "tgl",
+    "ISO 639-3": "tgl",
+    "Description": "note: Filipino (Pilipino) has the code fil\n"
+  },
+  {
+    "Language": "Tahitian",
+    "ISO 639-1": "ty",
+    "ISO 639-2/T": "tah",
+    "ISO 639-2/B": "tah",
+    "ISO 639-3": "tah",
+    "Description": "one of the Reo M\u0101`ohi (languages of French Polynesia)[3]\n"
+  },
+  {
+    "Language": "Tajik",
+    "ISO 639-1": "tg",
+    "ISO 639-2/T": "tgk",
+    "ISO 639-2/B": "tgk",
+    "ISO 639-3": "tgk",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tamil",
+    "ISO 639-1": "ta",
+    "ISO 639-2/T": "tam",
+    "ISO 639-2/B": "tam",
+    "ISO 639-3": "tam",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tatar",
+    "ISO 639-1": "tt",
+    "ISO 639-2/T": "tat",
+    "ISO 639-2/B": "tat",
+    "ISO 639-3": "tat",
+    "Description": "\n"
+  },
+  {
+    "Language": "Telugu",
+    "ISO 639-1": "te",
+    "ISO 639-2/T": "tel",
+    "ISO 639-2/B": "tel",
+    "ISO 639-3": "tel",
+    "Description": "\n"
+  },
+  {
+    "Language": "Thai",
+    "ISO 639-1": "th",
+    "ISO 639-2/T": "tha",
+    "ISO 639-2/B": "tha",
+    "ISO 639-3": "tha",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tibetan",
+    "ISO 639-1": "bo",
+    "ISO 639-2/T": "bod",
+    "ISO 639-2/B": "tib",
+    "ISO 639-3": "bod",
+    "Description": "also known as Standard Tibetan\n"
+  },
+  {
+    "Language": "Tigrinya",
+    "ISO 639-1": "ti",
+    "ISO 639-2/T": "tir",
+    "ISO 639-2/B": "tir",
+    "ISO 639-3": "tir",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tonga (Tonga Islands)",
+    "ISO 639-1": "to",
+    "ISO 639-2/T": "ton",
+    "ISO 639-2/B": "ton",
+    "ISO 639-3": "ton",
+    "Description": "also known as Tongan\n"
+  },
+  {
+    "Language": "Tsonga",
+    "ISO 639-1": "ts",
+    "ISO 639-2/T": "tso",
+    "ISO 639-2/B": "tso",
+    "ISO 639-3": "tso",
+    "Description": "\n"
+  },
+  {
+    "Language": "Tswana",
+    "ISO 639-1": "tn",
+    "ISO 639-2/T": "tsn",
+    "ISO 639-2/B": "tsn",
+    "ISO 639-3": "tsn",
+    "Description": "\n"
+  },
+  {
+    "Language": "Turkish",
+    "ISO 639-1": "tr",
+    "ISO 639-2/T": "tur",
+    "ISO 639-2/B": "tur",
+    "ISO 639-3": "tur",
+    "Description": "\n"
+  },
+  {
+    "Language": "Turkmen",
+    "ISO 639-1": "tk",
+    "ISO 639-2/T": "tuk",
+    "ISO 639-2/B": "tuk",
+    "ISO 639-3": "tuk",
+    "Description": "\n"
+  },
+  {
+    "Language": "Twi",
+    "ISO 639-1": "tw",
+    "ISO 639-2/T": "twi",
+    "ISO 639-2/B": "twi",
+    "ISO 639-3": "twi",
+    "Description": "covered by macrolanguage ak/aka\n"
+  },
+  {
+    "Language": "Uighur, Uyghur",
+    "ISO 639-1": "ug",
+    "ISO 639-2/T": "uig",
+    "ISO 639-2/B": "uig",
+    "ISO 639-3": "uig",
+    "Description": "\n"
+  },
+  {
+    "Language": "Ukrainian",
+    "ISO 639-1": "uk",
+    "ISO 639-2/T": "ukr",
+    "ISO 639-2/B": "ukr",
+    "ISO 639-3": "ukr",
+    "Description": "\n"
+  },
+  {
+    "Language": "Urdu",
+    "ISO 639-1": "ur",
+    "ISO 639-2/T": "urd",
+    "ISO 639-2/B": "urd",
+    "ISO 639-3": "urd",
+    "Description": "\n"
+  },
+  {
+    "Language": "Uzbek",
+    "ISO 639-1": "uz",
+    "ISO 639-2/T": "uzb",
+    "ISO 639-2/B": "uzb",
+    "ISO 639-3": "uzb\u00a0+\u00a02",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Venda",
+    "ISO 639-1": "ve",
+    "ISO 639-2/T": "ven",
+    "ISO 639-2/B": "ven",
+    "ISO 639-3": "ven",
+    "Description": "\n"
+  },
+  {
+    "Language": "Vietnamese",
+    "ISO 639-1": "vi",
+    "ISO 639-2/T": "vie",
+    "ISO 639-2/B": "vie",
+    "ISO 639-3": "vie",
+    "Description": "\n"
+  },
+  {
+    "Language": "Volap\u00fck",
+    "ISO 639-1": "vo",
+    "ISO 639-2/T": "vol",
+    "ISO 639-2/B": "vol",
+    "ISO 639-3": "vol",
+    "Description": "constructed\n"
+  },
+  {
+    "Language": "Walloon",
+    "ISO 639-1": "wa",
+    "ISO 639-2/T": "wln",
+    "ISO 639-2/B": "wln",
+    "ISO 639-3": "wln",
+    "Description": "\n"
+  },
+  {
+    "Language": "Welsh",
+    "ISO 639-1": "cy",
+    "ISO 639-2/T": "cym",
+    "ISO 639-2/B": "wel",
+    "ISO 639-3": "cym",
+    "Description": "\n"
+  },
+  {
+    "Language": "Wolof",
+    "ISO 639-1": "wo",
+    "ISO 639-2/T": "wol",
+    "ISO 639-2/B": "wol",
+    "ISO 639-3": "wol",
+    "Description": "\n"
+  },
+  {
+    "Language": "Xhosa",
+    "ISO 639-1": "xh",
+    "ISO 639-2/T": "xho",
+    "ISO 639-2/B": "xho",
+    "ISO 639-3": "xho",
+    "Description": "\n"
+  },
+  {
+    "Language": "Yiddish",
+    "ISO 639-1": "yi",
+    "ISO 639-2/T": "yid",
+    "ISO 639-2/B": "yid",
+    "ISO 639-3": "yid\u00a0+\u00a02",
+    "Description": "macrolanguage. Changed in 1989 from original ISO 639:1988, ji.[1]\n"
+  },
+  {
+    "Language": "Yoruba",
+    "ISO 639-1": "yo",
+    "ISO 639-2/T": "yor",
+    "ISO 639-2/B": "yor",
+    "ISO 639-3": "yor",
+    "Description": "\n"
+  },
+  {
+    "Language": "Zhuang, Chuang",
+    "ISO 639-1": "za",
+    "ISO 639-2/T": "zha",
+    "ISO 639-2/B": "zha",
+    "ISO 639-3": "zha\u00a0+\u00a016",
+    "Description": "macrolanguage\n"
+  },
+  {
+    "Language": "Zulu",
+    "ISO 639-1": "zu",
+    "ISO 639-2/T": "zul",
+    "ISO 639-2/B": "zul",
+    "ISO 639-3": "zul",
+    "Description": "\n"
+  }
 ]

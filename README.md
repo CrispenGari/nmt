@@ -8,6 +8,57 @@
 
 ### Notebooks
 
+All the notebooks that were used in this project are found in the `notebooks` folder. Here is the folder structure:
+
+```shell
+notebooks:
+        ├───bi-nmt
+        ├───lang-identification
+        │   ├───datasets
+        │   └───model
+        ├───languages
+        └───nmt-gathering
+```
+
+### Language Identification
+
+In this model we created a language identification model that identifies `6` south african languages. These languages are as follows:
+
+```
+
+```
+
+The model was able to perform very well during inference and we evaluated with the following metrics on the test examples.
+
+1. confusion matrix
+
+<img src="/images/cm.png" alt="cm" width="100%"/>
+
+2. classification report
+
+```shell
+                precision    recall  f1-score   support
+
+          af       1.00      0.99      0.99      4542
+          ts       1.00      0.98      0.99      4604
+          st       0.98      0.99      0.98      4462
+          en       0.96      1.00      0.98      4692
+          xh       0.98      0.97      0.98      4571
+          zu       0.98      0.97      0.98      4651
+
+    accuracy                           0.98     27522
+   macro avg       0.98      0.98      0.98     27522
+weighted avg       0.98      0.98      0.98     27522
+```
+
+3. loss
+
+The model was trained and be able to have a loss reduced to `0.058` on test examples.
+
+4. accuracy
+
+The model was trained and be able to obtain an accuracy of `98.35% ` on test examples.
+
 ### License
 
 In this repository I'm using the `MIT` License which reads as follows:
